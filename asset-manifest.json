@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/tnc-landing/static/js/main.7eb33143.chunk.js",
+    "main.js.map": "/tnc-landing/static/js/main.7eb33143.chunk.js.map",
+    "runtime-main.js": "/tnc-landing/static/js/runtime-main.0dcee94a.js",
+    "runtime-main.js.map": "/tnc-landing/static/js/runtime-main.0dcee94a.js.map",
+    "static/js/2.fa566bed.chunk.js": "/tnc-landing/static/js/2.fa566bed.chunk.js",
+    "static/js/2.fa566bed.chunk.js.map": "/tnc-landing/static/js/2.fa566bed.chunk.js.map",
+    "index.html": "/tnc-landing/index.html",
+    "static/js/2.fa566bed.chunk.js.LICENSE.txt": "/tnc-landing/static/js/2.fa566bed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dcee94a.js",
+    "static/js/2.fa566bed.chunk.js",
+    "static/js/main.7eb33143.chunk.js"
+  ]
+}
